@@ -42,8 +42,6 @@ As "chaves" de criptografia utilizadas neste projeto são:
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request para sugerir melhorias, correções de bugs ou novas funcionalidades.
 
-## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 
